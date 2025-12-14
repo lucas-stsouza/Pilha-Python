@@ -18,23 +18,14 @@ O objetivo do projeto é consolidar conceitos fundamentais de Estrutura de Dados
 
 ✔ Inversão de uma fila utilizando pilha, sem uso do método reverse
 
-
-🗂 Estrutura do Projeto
-.
-├── pilha.py      # Implementação da classe Pilha
-├── fila.py       # Implementação da classe Fila
-├── funcoes.py    # Funções que aplicam Pilha e Fila em problemas clássicos
-└── main.py       # Arquivo principal com testes e execução
 🚀 Como Executar o Projeto
 
 Certifique-se de ter o Python 3 instalado
-
 Clone este repositório ou baixe os arquivos
 
 No terminal, navegue até a pasta do projeto
 
 Execute o arquivo principal:
-
 python main.py
 
 ✏️ Exemplos de Uso
